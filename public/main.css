@@ -1,0 +1,97 @@
+ .navport{
+    background: linear-gradient(90deg, rgba(223,199,188,1) 25%, rgba(223,216,213,1) 49%, rgba(228,198,181,1) 72%);
+    animation: gradient-animation 18s ease infinite;
+    padding:1rem ;
+    margin:0;
+    
+    
+  }
+    
+  .nav-link{
+    color: rgb(53, 53, 80);
+  }
+
+.gradient-background{
+  background-image: url(./image/notebook.jpg);
+  background-size: cover;
+  margin-top: 1rem;
+  }
+  
+  
+.img-logo{
+  border-radius: 50%;
+  margin: 1rem;
+}
+
+.img-contato{
+  border-style:outset;
+  border-radius: 20%;
+  
+}
+
+.formacao{
+ margin: 3rem;
+}
+
+#descricao{
+background-color: #eee5e2;
+margin: 3rem;
+}
+
+.portifolio{
+  margin: 3rem;
+}
+
+.card-body{
+  
+  margin: 3rem;
+
+}
+
+.organize{
+background-color: #eee5e2;
+margin: 3rem;
+}
+
+.about{
+ margin-top: 2rem;
+ margin-left: 1rem ;
+ margin-right: 2rem;
+
+}
+
+.prof{
+  margin: 2rem;
+  
+}
+
+.description{
+  margin: 2rem;
+}
+
+.foo_port{
+  background: linear-gradient(90deg, rgba(223,199,188,1) 25%, rgba(223,216,213,1) 49%, rgba(228,198,181,1) 72%);
+  animation: gradient-animation 18s ease infinite;
+  padding:2rem ;
+  margin:0;
+}
+
+.mailtel{
+  margin: 1rem;
+}
+
+.job{
+  margin-top: 3rem;
+}
+
+.container{
+  padding: 1rem;
+}
+
+.inline{
+  display: inline;
+}
+
+.relation{
+  margin: 2rem;
+}
